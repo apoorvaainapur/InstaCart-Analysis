@@ -21,10 +21,10 @@ The stakeholders would like to be able to answer the following key questions:
 habits?
 ○ What different classifications does the demographic information suggest?
 Age? Income? Certain types of goods? Family status?
-○ What differences can you find in ordering habits of different customer
+○ What differences can you find in the ordering habits of different customer
 profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 # Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF]() as well as the [Instacart Basket Analysis zipfile]() containing all data sets, graphs, and reports.
+For a comprehensive view of my findings and recommendations, please refer to the [Instacart Basket Analysis zipfile](https://github.com/apoorvaainapur/InstaCart-Analysis/blob/main/Instacart%20Basket%20Analysis.zip) containing all data sets, graphs, and reports.
 
 This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
